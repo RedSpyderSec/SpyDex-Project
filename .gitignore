@@ -1,0 +1,24 @@
+# Binarios y Compilados
+spydex
+spydex.exe
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+bin/
+
+# Base de datos local de historial
+*.db
+*.db-journal
+*.db-wal
+*.db-shm
+
+# Certificados y Claves CA autogeneradas de desarrollo
+ca.key
+ca.pem
+
+# Carpetas de Entornos e IDEs
+.idea/
+.vscode/
+.DS_Store
